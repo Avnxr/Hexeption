@@ -28,7 +28,7 @@
 
 ---
 
-<img align="left" alt="Hexeptions's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hexeption&show_icons=true&hide_border=true" />
+<img align="left" alt="Hexeptions's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hexeption&show_icons=true&hide_border=true&theme=radical" />
 
 [website]: https://hexeption.co.uk
 [magma]: https://github.com/magmafoundation/magma
