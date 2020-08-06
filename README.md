@@ -1,7 +1,7 @@
 ### Hi there, I'm Keir - aka [Hexeption][website] 👋
 
 ## I'm a Games Designer and Programer.
-- 🌋 I’m currently working on [Magma][magma]!
+- 🌋 I’m currently working on a [Magma][magma]!
 - 🥅 2020 Goals: Have Magma 1.16 and 1.15 out by the end of the year
 
 ### Connect with me:
@@ -28,7 +28,7 @@
 
 ---
 
-<img align="left" alt="Hexeptions's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexeption&show_icons=true&hide_border=true&theme=radical&layout=compact" />
+<img align="left" alt="Hexeptions's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexeption&show_icons=true&hide_border=true&theme=radical" />
 <img align="right" alt="Hexeptions's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hexeption&show_icons=true&hide_border=true&theme=radical" />
 
 
